@@ -1,3 +1,5 @@
 git status
 git add -m "Notes for using Drupal and Drupal related code"
+git commit -m "Add existing file"
+git push origin your-branch
 
