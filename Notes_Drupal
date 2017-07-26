@@ -1,1 +1,3 @@
 git status
+git add -m "Notes for using Drupal and Drupal related code"
+
